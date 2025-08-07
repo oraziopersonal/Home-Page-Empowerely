@@ -6,7 +6,7 @@ function cardSearch() {
     <input type="text" id="campoDiRicerca" name="ricerca" placeholder ="Cerca un titolo, descrizione o contenuto"></input>
   <label for="data><Data da:</label>
     <input type="text" id="data" placeholder ="gg/mm/aaaa">
-  <label for="categorie">Catefgoria</label>
+  <label for="categorie">Categoria</label>
     <select id="category">
       <option value="Tutti">Tutti</option>
       <option value="Da Leggere">Da Leggere</option>
