@@ -3,8 +3,15 @@ function cardSearch() {
 <div id="cercaFiltro">
 <form>
   <label for="cerca">Cerca</label><br>
-    <input type="text" id="campoDiRicerca" name="ricerca"></input>
-  
+    <input type="text" id="campoDiRicerca" name="ricerca" placeholder ="Cerca un titolo, descrizione o contenuto"></input>
+  <label for="data><Data da:</label>
+    <input type="text" id="data" placeholder ="gg/mm/aaaa">
+  <label for="categorie">Catefgoria</label>
+    <select id="category">
+      <option value="Tutti">Tutti</option>
+      <option value="Da Leggere">Da Leggere</option>
+      <option value="Letti">Letti</option>
+     </select> 
 </form>
 </div>
 </>
