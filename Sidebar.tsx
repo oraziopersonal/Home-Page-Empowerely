@@ -1,5 +1,5 @@
 import Link form "next/Link"
-function sidabarHome() {
+function sidebarHome() {
   <>
     {/*Menù contenuto nella sidebar*/}
     <ul>
