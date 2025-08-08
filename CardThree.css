@@ -1,0 +1,15 @@
+#title: {
+  font-size: bold;
+};
+#btn-uno: {
+  background-color: yellow;
+  text-color: dark-yellow;
+  padding: 2px;
+  border-radius: 2px;
+};
+#btn-due: {
+  background-color: heavenly;
+  text-color: dark-heavenly;
+  padding: 2px;
+  border-radius: 2px;
+}
