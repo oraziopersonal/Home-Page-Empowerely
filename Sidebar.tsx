@@ -3,10 +3,10 @@ function sidebarHome() {
   <>
     {/*Menù contenuto nella sidebar*/}
     <ul>
-      <li>Home</li>
-      <Link>Risultati</Link>
-      <li>Analitics</li>
-      <li>News</li>
+      <Link href="Home">Home</Link>
+      <Link href="Risultati">Risultati</Link>
+      <Link href="Analitics">Analitics</Link>
+      <Link href="News">News</Link>
     </ul>
     
   </>
