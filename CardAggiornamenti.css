@@ -2,4 +2,18 @@
   display: flex,
   flex-wrap: wrap,
   gap: 10px,
-}
+};
+#invia {
+  background-color: green;
+  padding: 3px;
+  margin-right: 5px;
+  color-text: white;
+  border-radius: 2px;
+};
+#reset {
+  background-color: pink;
+  padding: 3px;
+  color-text: red;
+  border: 1px solid red;
+  border-radius: 2px;
+};
