@@ -1,0 +1,16 @@
+#card-miglioramenti {
+  border: 1px solid black;
+  padding: 3px;
+};
+#btn-carica {
+  background-color: yellow;
+  color-text: dark-yellow;
+  border-radius: 2px;
+  padding: 2px;
+};
+#btn-relese {
+  background-color: blue;
+  color-text: dark-blue;
+  border-radius: 2px;
+  padding: 2px;
+};
