@@ -1,0 +1,20 @@
+#card-container-2 {
+  box-sizig: border-box;
+  border-radius: 5px;
+  border: 1px solid black;
+  padding: 5px;
+  display: flex;
+  width: 20%;
+  justify-content: center;
+  align-items: center;
+};
+#btn-card-2 {
+  color: gray;
+  border-radius: 2px;
+  padding: 2px;
+};
+#btn-card-new {
+  color: green;
+  border-radius: 2px;
+  padding: 2px;
+};
