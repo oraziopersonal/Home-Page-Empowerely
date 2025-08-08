@@ -1,3 +1,14 @@
 h3 {
   font-size: bold;
+};
+.card {
+  border: 1px solid grey;
+  border-radius: 3px;
+  padding: 5px;
+  box-sizing: border-box;
+  widht: 20%;
+  height: 200px;
+  display: flex; 
+  justify-content: center;
+  align-items: center;
 }
