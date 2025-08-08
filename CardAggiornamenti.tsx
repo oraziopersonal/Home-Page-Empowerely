@@ -12,6 +12,8 @@ function cardSearch() {
       <option value="Da Leggere">Da Leggere</option>
       <option value="Letti">Letti</option>
      </select> 
+    <button id="invia" type="submit">Invia filtri</button>
+    <button id="reset"  type="reset">Reset filtri</button>
 </form>
 </div>
 </>
